@@ -6,7 +6,7 @@ This project is programmed without any frameworks designed with custom css. Basi
 
 Azoron was a tiny project, basicaly only a landing page, completly custom CSS designed to be resoinsive to mobile phone. The premise of this company is explained in german on the website.
 
-# [Try it 🕹️](http://134.209.229.170)
+# [Try it 🕹️](https://htmlpreview.github.io/?https://github.com/DennisRauscher/Azoron/blob/master/public/index.html)
 
 If the demo is offline you can also download the files and go to **/public/index.html** and open it in your browser of choice.
 
